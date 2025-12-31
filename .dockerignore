@@ -5,3 +5,4 @@ __pycache__/
 .gitignore
 .gitattributes
 db.sqlite3
+README.md
